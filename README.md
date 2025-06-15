@@ -12,3 +12,4 @@ JS Back-End workshop @SoftUni
 5. Setup Static Route
 6. Render Home Page
 7. Add Routes and Controllers
+8. Exrtakt partial template
