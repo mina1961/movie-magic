@@ -9,3 +9,4 @@ JS Back-End workshop @SoftUni
 2. Setup Express
 3. Setup Handlebars
 4. Add Resources
+5. Setup Static Route
