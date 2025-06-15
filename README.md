@@ -10,3 +10,5 @@ JS Back-End workshop @SoftUni
 3. Setup Handlebars
 4. Add Resources
 5. Setup Static Route
+6. Render Home Page
+7. Add Routes and Controllers
