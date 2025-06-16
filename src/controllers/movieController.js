@@ -12,6 +12,6 @@ router.post('/create', async (req, res) => {
     const movieData = req.body;
     // TODO: Save movieData to the database
     await movieService.create(movieData);
-    res.end();
+    res.redirect('/');
 });
 export default router;
