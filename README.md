@@ -13,3 +13,5 @@ JS Back-End workshop @SoftUni
 6. Render Home Page
 7. Add Routes and Controllers
 8. Exrtakt partial template
+9. Add service and data layers
+10. Add Create page
