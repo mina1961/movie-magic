@@ -15,3 +15,4 @@ JS Back-End workshop @SoftUni
 8. Exrtakt partial template
 9. Add service and data layers
 10. Add Create page
+11. Add Details page
