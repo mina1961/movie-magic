@@ -4,7 +4,7 @@ JS Back-End workshop @SoftUni
 ## Start Project
 `npm run dev` - for developing
 
-## Deveoping steps
+## Deveoping steps - Workzhop 1
 1. Initial Project Architecture
 2. Setup Express
 3. Setup Handlebars
@@ -17,3 +17,6 @@ JS Back-End workshop @SoftUni
 10. Add Create page
 11. Add Details page
 12. Add search page
+
+## Developing Steps - Workshop 2
+1. 1. Extract init files
