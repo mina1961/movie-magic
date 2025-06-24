@@ -19,4 +19,5 @@ JS Back-End workshop @SoftUni
 12. Add search page
 
 ## Developing Steps - Workshop 2
-1. 1. Extract init files
+1. Extract init files
+2. Setup models
