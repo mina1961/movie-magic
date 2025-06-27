@@ -3,7 +3,9 @@ import Movie from '../models/Movie.js';
 
 // TODO refactor using db filtration
 const getAll = async (filter = {}) => {
+
     let movies = await Movie.find();
+
     if (filter.search) {
         movies = movies.filter(movie => movie.title.toLowerCase().includes(filter.search.toLowerCase()));
     }
