@@ -23,3 +23,10 @@ JS Back-End workshop @SoftUni
 2. Setup models
 3. Add Movie model
 4. Convert file based storage to db storage
+5. Add cast model
+6. Add create cast page
+
+
+* Add model validation
+* Fix filtering from movies
+* Add character name
