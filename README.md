@@ -26,8 +26,11 @@ JS Back-End workshop @SoftUni
 5. Add cast model
 6. Add create cast page
 7. Add attach cast page
+8. Show cast in details page
 
-
-* Add model validation
-* Fix filtering from movies
-* Add character name
+Bonus:
+ [ ] Add model validation
+ [ ] Fix filtering from movies
+ [ ] Add character name
+ [ ] Filter cast based on added ones
+ [ ] Atlas
