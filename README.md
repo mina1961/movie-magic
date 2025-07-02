@@ -30,7 +30,7 @@ JS Back-End workshop @SoftUni
 
 Bonus:
  [ ] Add model validation
- [ ] Fix filtering from movies
+ [x] Fix filtering from movies
  [ ] Add character name
  [ ] Filter cast based on added ones
  [ ] Atlas
